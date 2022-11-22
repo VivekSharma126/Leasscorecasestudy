@@ -1,4 +1,4 @@
-# Leasscorecasestudy
+# Leadscorecasestudy
 Solution to lead score case study
 Problem statement: X Education markets its courses on several websites and search engines like Google and get a lots of leads but conversion rate of the company is around 30%.
 
