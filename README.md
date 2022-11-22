@@ -9,4 +9,4 @@ Approach:
 To build a logistic regression model to predict lead conversion probability
 Decide on a probability threshold value above which a lead will be predicted as converted, whereas not converted if it is below it.
 Assign a lead score value between 0 and 100 to each of the leads which can be used by the company to target potential leads.
-![image](https://user-images.githubusercontent.com/118648871/203375381-939e97e0-6f93-419d-9777-ff195c23a731.png)
+
